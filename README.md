@@ -1,4 +1,6 @@
 # github-action-required-labels
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOBITOONDEADO1MZ%2Fgithub-action-required-labels.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOBITOONDEADO1MZ%2Fgithub-action-required-labels?ref=badge_shield)
+
 
 This action allows you to fail the build if/unless a certain combination of labels are applied to a pull request.
 
@@ -220,3 +222,7 @@ jobs:
             echo "$f"
           done
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOBITOONDEADO1MZ%2Fgithub-action-required-labels.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOBITOONDEADO1MZ%2Fgithub-action-required-labels?ref=badge_large)
